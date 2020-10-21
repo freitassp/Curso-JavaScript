@@ -7,7 +7,7 @@
 //valorIngressoAdulto = 25;
 //console.log(valorIngressoAdulto);
 
-let nome = 'samuel';//string literal
+//let nome = 'samuel';//string literal
 let idade = 30; //number literal
 let estaAprovado = true; //boolean
 let sobrenome; //undefined
@@ -21,4 +21,9 @@ let pessoa = {
     estaAprovado: true,
     sobrenome: 'de Freitas'
 };
-console.log(pessoa);
+//console.log(pessoa);
+
+//Array
+let familiaIdades = [30,25,20,58,55];
+//console.log(familiaIdades);
+console.log(familiaIdades[3]);
